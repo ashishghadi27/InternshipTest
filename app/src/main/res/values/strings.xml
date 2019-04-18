@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Internship Test</string>
+  <string name="title_home">Home</string>
+  <string name="title_dashboard">Dashboard</string>
+  <string name="title_notifications">Notifications</string>
+  <string name="info">Your free trial expired on</string>
+  <string name="info2">please upgrade now to get full access.</string>
+</resources>
